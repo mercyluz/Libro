@@ -30,6 +30,7 @@ Desde el terminal:
 Conectar el proyecto creado con el repositorio “Libro” de Github creado al principio 
 (Instrucciones en Github)
 <li>git remote add origin <la url de tu repositorio></li>
+  
 ![](https://github.com/mercyluz/Libro/blob/main/imagen2.png)
 
 
