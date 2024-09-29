@@ -30,3 +30,16 @@ Desde el terminal:
 Conectar el proyecto creado con el repositorio “Libro” de Github creado al principio 
 (Instrucciones en Github)
 <li>git remote add origin <la url de tu repositorio></li>
+![](https://github.com/mercyluz/Libro/blob/main/imagen2.png)
+
+
+  Step 3:
+
+<br>Comprobar el estado del repositorio.</br>
+<li><Crear un fichero index.txt (en local) con el siguiente contenido:</li>
+<li>Capítulo 1: Introducción a Git </li>
+<li>Capítulo 2: Flujo de trabajo básico</li>
+<li>Capítulo 3: Repositorios remotos </li>
+<li>Comprobar de nuevo el estado del repositorio.</li>
+
+![](https://github.com/mercyluz/Libro/blob/main/imagen3.png)
